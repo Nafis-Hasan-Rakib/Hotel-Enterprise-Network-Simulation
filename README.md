@@ -122,29 +122,6 @@ To enforce strict defense-in-depth security, **Extended Access Control Lists** a
 
 ---
 
-## 📂 Repository File Structure
-
-```text
-├── cisco_configs/
-│   ├── 01_Router0_Floor1_Core_and_CME.ios       # Floor 1 Router & CME telephony setup
-│   ├── 02_Floor1_Switch_Voice_VLAN.ios         # Switch Voice VLAN 1 & 802.1Q trunking
-│   ├── 03_Router1_Floor2.ios                   # Floor 2 routing & DHCP config
-│   ├── 04_Router2_Floor3_Server_Farm_and_IoT.ios # Floor 3 & IoT integration config
-│   ├── 05_Router3_Floor4_Admin.ios             # Floor 4 Executive Admin setup
-│   ├── 06_IoT_Server_and_Surveillance_Setup.txt# IoT registration and sensor scripts
-│   └── 07_Enterprise_ACL_Security.ios          # Production Extended ACL policies
-├── docs/
-│   ├── hotel_network_topology_report.pdf       # 18-page Comprehensive Engineering Report
-│   ├── hotel_network_configuration_manual.pdf  # Detailed Cisco IOS Configuration Manual
-│   ├── hotel_network_proposal.pdf              # 7-page Project Proposal & Work Breakdown
-│   └── topology_overview.png                   # High-resolution labeled topology diagram
-├── COMPLETE_CISCO_COMMANDS_0_TO_100.txt        # Full unified CLI runbook for all 7 routers & 17 switches
-├── hotel_network_topology.pkt                  # Working Cisco Packet Tracer simulation file
-├── .gitignore                                  # Git exclusion rules
-└── README.md                                   # Project documentation and engineering guide
-```
-
----
 
 ## 🚀 How to Run & Verify the Simulation
 
@@ -176,21 +153,6 @@ To enforce strict defense-in-depth security, **Extended Access Control Lists** a
 
 ---
 
-## 👥 Project Team & Credits
-
-| Name | Student Roll | Contribution Focus |
-| :--- | :--- | :--- |
-| **MD. Nafis Hasan Rakib** | `735646` / `725646` | **Project Leader & Network Architecture** (Core OSPF routing, WAN mesh, IP addressing, project management) |
-| **MD. Tanvir Rana** | `734415` | **Technical Documentation & Network Security** (Extended ACL engineering, technical manual authoring, report compilation) |
-| **Sabrina Aktar Ema** | `734399` | **Research & VoIP/IoT Automation** (Cisco CME dial-peer design, IoT registration server integration, sensor testing) |
-
-- **Academic Department**: Department of Computer Science & Technology (CST)
-- **Institution**: **Jashore Govt. Polytechnic Institute**, Jashore, Bangladesh
-- **Academic Session**: 2022–2023
-- **Course**: Project Work-2 (Subject Code: 28571)
-- **Supervising Faculty**: **Al-Amin**, Junior Instructor, Department of Computer Science & Technology
-
----
 
 ## 📜 License
 

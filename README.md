@@ -19,7 +19,7 @@ The design utilizes a **Hierarchical Hub-and-Spoke / Partial Mesh WAN Topology**
 
 ## 🗺️ Network Topology Architecture
 
-![Enterprise Hotel Network Topology](docs/topology_overview.png)
+![Enterprise Hotel Network Topology](topology_overview.png)
 
 *Figure 1: Fully converged hotel enterprise topology featuring 7 Cisco 2811 Routers, 17 Catalyst 2950 Switches, 16 Cisco 7960 IP Phones, Server Farm, IoT Surveillance, and Wireless Access Points.*
 
